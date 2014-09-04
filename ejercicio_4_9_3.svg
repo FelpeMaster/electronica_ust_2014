@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.1"
+   id="ejercicio_4_9_3" width="100%" height="100%"  viewBox="-6 -6 624 640">
+<desc>
+XCircuit Version 3.8
+File "ejercicio_4_9_3.ps" Page 1
+</desc>
+<g stroke="black">
+<ellipse cx="368" cy="42" rx="6" ry="6" fill="none" stroke-width="2" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<path d="M368,58 L368,48 " fill="none" stroke-width="2" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<path d="M386,90 L368,122 350,90 z" fill="#000000" stroke="none" />
+<path d="M368,58 L368,90 " fill="none" stroke-width="2" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<path d="M368,154 L368,122 " fill="none" stroke-width="2" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<path d="M386,122 L350,122 " fill="none" stroke-width="2" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<path d="M368,154 L368,182 " fill="none" stroke-width="2" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<path d="M368,282 L368,254 " fill="none" stroke-width="2" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<path d="M368,254 L382,248 354,236 382,224 354,212 382,200 354,188 368,182 " fill="none" stroke-width="2" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<ellipse cx="128" cy="282" rx="32" ry="32" fill="none" stroke-width="2" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<path d="M96,282 L64,282 " fill="none" stroke-width="2" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<path d="M160,282 L192,282 " fill="none" stroke-width="2" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<path d="M108,282 L136,282 " fill="none" stroke-width="1.5" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<path d="M126,288 C134,284 136,284 148,282 C136,280 134,280 126,276 C127,280 127,284 126,288 " fill="#000000" stroke="none" />
+<path d="M192,282 L368,282 " fill="none" stroke-width="2" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<path d="M368,282 L528,282 " fill="none" stroke-width="2" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<path d="M498,378 L480,410 462,378 z" fill="#000000" stroke="none" />
+<path d="M480,346 L480,378 " fill="none" stroke-width="2" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<path d="M480,442 L480,410 " fill="none" stroke-width="2" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<path d="M498,410 L462,410 " fill="none" stroke-width="2" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<path d="M480,346 L480,282 " fill="none" stroke-width="2" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<path d="M480,442 L480,470 " fill="none" stroke-width="2" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<path d="M480,570 L480,542 " fill="none" stroke-width="2" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<path d="M480,542 L494,536 466,524 494,512 466,500 494,488 466,476 480,470 " fill="none" stroke-width="2" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<ellipse cx="480" cy="586" rx="6" ry="6" fill="none" stroke-width="2" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<path d="M480,570 L480,580 " fill="none" stroke-width="2" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<ellipse cx="48" cy="282" rx="6" ry="6" fill="none" stroke-width="2" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<path d="M64,282 L54,282 " fill="none" stroke-width="2" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<ellipse cx="544" cy="282" rx="6" ry="6" fill="none" stroke-width="2" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<path d="M528,282 L538,282 " fill="none" stroke-width="2" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<g transform="matrix(   1    0   -0    1 336  26)" fill="#000000" >
+<text stroke="none" font-family="Helvetica" font-size="40" ><tspan x="0" y="0">+5V</tspan>
+</text></g>
+<g transform="matrix(   1    0   -0    1 400 106)" fill="#000000" >
+<text stroke="none" font-family="Helvetica" font-size="40" ><tspan x="0" y="0">D1</tspan>
+</text></g>
+<g transform="matrix(   1    0   -0    1 400 234)" fill="#000000" >
+<text stroke="none" font-family="Helvetica" font-size="40" ><tspan x="0" y="0">R1</tspan>
+</text></g>
+<g transform="matrix(   1    0   -0    1  80 346)" fill="#000000" >
+<text stroke="none" font-family="Helvetica" font-size="40" ><tspan x="0" y="0">I=5mA</tspan>
+</text></g>
+<g transform="matrix(   1    0   -0    1   0 266)" fill="#000000" >
+<text stroke="none" font-family="Helvetica" font-size="40" ><tspan x="0" y="0">+10V</tspan>
+</text></g>
+<g transform="matrix(   1    0   -0    1 560 298)" fill="#000000" >
+<text stroke="none" font-family="Helvetica" font-size="40" ><tspan x="0" y="0">VA</tspan>
+</text></g>
+<g transform="matrix(   1    0   -0    1 528 410)" fill="#000000" >
+<text stroke="none" font-family="Helvetica" font-size="40" ><tspan x="0" y="0">D2</tspan>
+</text></g>
+<g transform="matrix(   1    0   -0    1 512 522)" fill="#000000" >
+<text stroke="none" font-family="Helvetica" font-size="40" ><tspan x="0" y="0">R2</tspan>
+</text></g>
+<path d="M320,130 L320,190 " fill="none" stroke-width="1.6" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<path d="M312,182 C317,192 317,195 320,210 C323,195 323,192 328,182 C322,184 318,184 312,182 " fill="#000000" stroke="none" />
+<g transform="matrix(   1    0   -0    1 256 170)" fill="#000000" >
+<text stroke="none" font-family="Helvetica" font-size="40" ><tspan x="0" y="0">ID1</tspan>
+</text></g>
+<path d="M416,370 L416,430 " fill="none" stroke-width="1.6" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<path d="M408,422 C413,432 413,435 416,450 C419,435 419,432 424,422 C418,424 414,424 408,422 " fill="#000000" stroke="none" />
+<g transform="matrix(   1    0   -0    1 336 410)" fill="#000000" >
+<text stroke="none" font-family="Helvetica" font-size="40" ><tspan x="0" y="0">ID2</tspan>
+</text></g>
+<g transform="matrix(   1    0   -0    1 432 634)" fill="#000000" >
+<text stroke="none" font-family="Helvetica" font-size="40" ><tspan x="0" y="0">-5V</tspan>
+</text></g>
+</g>
+</svg>
