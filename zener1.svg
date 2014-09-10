@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.1"
+   id="zener1" width="100%" height="100%"  viewBox="-6 -6 626 416">
+<desc>
+XCircuit Version 3.9
+File "zener1.ps" Page 1
+</desc>
+<g stroke="black">
+<path d="M446,234 L464,202 482,234 z" stroke="none" />
+<path d="M446,210 L450,202 478,202 482,194 " fill="none" stroke-width="3" stroke-linejoin="bevel" stroke-linecap="round" />
+<path d="M464,266 L464,234 " fill="none" stroke-width="2" stroke-linejoin="bevel" stroke-linecap="round" />
+<path d="M464,170 L464,202 " fill="none" stroke-width="2" stroke-linejoin="bevel" stroke-linecap="round" />
+<path d="M320,364 L288,346 320,328 z" stroke="none" />
+<path d="M352,346 L320,346 " fill="none" stroke-width="2" stroke-linejoin="bevel" stroke-linecap="round" />
+<path d="M256,346 L288,346 " fill="none" stroke-width="2" stroke-linejoin="bevel" stroke-linecap="round" />
+<path d="M288,364 L288,328 " fill="none" stroke-width="2" stroke-linejoin="bevel" stroke-linecap="round" />
+<ellipse cx="112" cy="202" rx="32" ry="32" fill="none" stroke-width="2" stroke-linejoin="bevel" stroke-linecap="round" />
+<path d="M112,170 L112,138 " fill="none" stroke-width="2" stroke-linejoin="bevel" stroke-linecap="round" />
+<path d="M112,234 L112,266 " fill="none" stroke-width="2" stroke-linejoin="bevel" stroke-linecap="round" />
+<path d="M128,202 C112,250 112,154 96,202 " fill="none" stroke-width="1.6" stroke-linejoin="bevel" stroke-linecap="round" />
+<path d="M352,58 L324,58 " fill="none" stroke-width="2" stroke-linejoin="bevel" stroke-linecap="round" />
+<path d="M224,58 L252,58 " fill="none" stroke-width="2" stroke-linejoin="bevel" stroke-linecap="round" />
+<path d="M252,58 L258,72 270,44 282,72 294,44 306,72 318,44 324,58 " fill="none" stroke-width="2" stroke-linejoin="bevel" stroke-linecap="round" />
+<path d="M112,138 L112,58 224,58 " fill="none" stroke-width="2" stroke-linejoin="bevel" stroke-linecap="round" />
+<path d="M112,266 L112,346 256,346 " fill="none" stroke-width="2" stroke-linejoin="bevel" stroke-linecap="round" />
+<path d="M352,58 L464,58 464,170 " fill="none" stroke-width="2" stroke-linejoin="bevel" stroke-linecap="round" />
+<path d="M352,346 L464,346 464,266 " fill="none" stroke-width="2" stroke-linejoin="bevel" stroke-linecap="round" />
+<path d="M464,58 L560,58 " fill="none" stroke-width="2" stroke-linejoin="bevel" stroke-linecap="round" />
+<path d="M464,346 L560,346 " fill="none" stroke-width="2" stroke-linejoin="bevel" stroke-linecap="round" />
+<g transform="matrix(   1    0   -0    1 288  26)" >
+<text stroke="none" font-family="Helvetica" font-size="40" ><tspan x="0" y="0">R</tspan>
+</text></g>
+<g transform="matrix(   1    0   -0    1 288 410)" >
+<text stroke="none" font-family="Helvetica" font-size="40" ><tspan x="0" y="0">D</tspan>
+</text></g>
+<g transform="matrix(   1    0   -0    1   0 202)" >
+<text stroke="none" font-family="Helvetica" font-size="40" ><tspan x="0" y="0">vin</tspan>
+</text></g>
+<g transform="matrix(   1    0   -0    1 368 218)" >
+<text stroke="none" font-family="Helvetica" font-size="40" ><tspan x="0" y="0">DZ</tspan>
+</text></g>
+<ellipse cx="576" cy="58" rx="6" ry="6" fill="none" stroke-width="2" stroke-linejoin="bevel" stroke-linecap="round" />
+<path d="M560,58 L570,58 " fill="none" stroke-width="2" stroke-linejoin="bevel" stroke-linecap="round" />
+<ellipse cx="576" cy="346" rx="6" ry="6" fill="none" stroke-width="2" stroke-linejoin="bevel" stroke-linecap="round" />
+<path d="M560,346 L570,346 " fill="none" stroke-width="2" stroke-linejoin="bevel" stroke-linecap="round" />
+<g transform="matrix(   1    0   -0    1 560  90)" >
+<text stroke="none" font-family="Helvetica" font-size="40" ><tspan x="0" y="0">+</tspan>
+</text></g>
+<g transform="matrix(   1    0   -0    1 576 330)" >
+<text stroke="none" font-family="Helvetica" font-size="40" ><tspan x="0" y="0">-</tspan>
+</text></g>
+<g transform="matrix(   1    0   -0    1 544 218)" >
+<text stroke="none" font-family="Helvetica" font-size="40" ><tspan x="0" y="0">vout</tspan>
+</text></g>
+</g>
+</svg>
