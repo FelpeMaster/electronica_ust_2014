@@ -1,0 +1,6 @@
+# una vez creado el repositorio se debe hacer.
+# posicionarse en el directorio
+
+git add [archivos] # puede ser más que uno
+git commit -m "ingresar comentario"
+git push origin master
